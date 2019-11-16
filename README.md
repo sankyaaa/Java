@@ -13,12 +13,16 @@ Create a class Student having the following attributes: id, name, percentage, gr
 
 # Code3. 
 Create a class TestMaths having the following:
+        
         a. public void power(int base, int index)
 If base = 2 and power = 3, the method should print 8.
+        
         b. public void findFactorial(int number)
 If number = 3, the method should print 6.
+        
         c. public void findTable(int number)
 If number = 2, the method should print 2’s table till 10th power.
+        
         d. public void findPrime(int number)
 Based upon the number, the method should print if it is prime or not.
 
