@@ -1,6 +1,6 @@
 # Java
 
-# 1.Declare an interface printable as given below.
+# Code1.Declare an interface printable as given below.
     interface printable
         {
             public void printDetails();
@@ -9,7 +9,7 @@
         Write a class FtPlayer with members - name and goals
         CktPlayer and FtPlayer implements printable interface and overrides its method to display details.
 
-# 2. Create a class Account with -
+# Code2. Create a class Account with -
         Instance variable - balance
         Class methods - deposite/withdraw
         User withdrawal limit on one transaction is Rs.15000/-
