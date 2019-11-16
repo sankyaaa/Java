@@ -3,8 +3,8 @@
 # 1.Declare an interface printable as given below.
   interface printable
     {
-      public void printDetails();
-    }
+    public void printDetails();
+     }
         Write a class CktPlayer with members - name and runs
         Write a class FtPlayer with members - name and goals
         CktPlayer and FtPlayer implements printable interface and overrides its method to
